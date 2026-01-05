@@ -3,4 +3,6 @@ This lab is to learn more about Active Directory
 
 I have created a Microsoft Server using the MICROSOFT SERVER 2019 ISO
 
-I have created my own AD DC
+I have created my own AD DC named JESHUA.local
+
+Created two VM Computers that joined the JESHUA.local domain
